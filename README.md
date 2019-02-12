@@ -20,4 +20,4 @@ window.dispatchEvent(new Event('resize'))
 
 # Preview 
 
-Click <a href="https://vikdwi.github.io/image-map-resizer/"> here</a> to preview.
+Click <a href="https://vikasdwivedi.github.io/image-map-resizer/"> here</a> to preview.
