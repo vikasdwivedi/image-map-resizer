@@ -1,6 +1,6 @@
 # Image Map Resizer
 
-Written vanilla JS, this utility allows the recalculating of the area coordinates of the image map to match the actual size on load and window.resize.
+Written in vanilla JS, this utility allows the recalculating of the area coordinates of the image map to match the actual size on load and window.resize.
 
 This repo is inspired from a jQuery Plugin <a href="https://github.com/stowball/jQuery-rwdImageMaps">jQuery-rwdImageMaps</a> which was developed by <a href="https://github.com/stowball/jQuery-rwdImageMaps/commits?author=stowball">stowball</a>
 
