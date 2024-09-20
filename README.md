@@ -1,21 +1,18 @@
 # Image Map Resizer
 
-Written in vanilla JS, this utility allows the recalculating of the area coordinates of the image map to match the actual size on load and window.resize.
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-This repo is inspired from a jQuery Plugin <a href="https://github.com/stowball/jQuery-rwdImageMaps">jQuery-rwdImageMaps</a> which was developed by <a href="https://github.com/stowball/jQuery-rwdImageMaps/commits?author=stowball">stowball</a>
+Image Map Resizer is a library written in pure JavaScript that enables dynamic resizing of image map area coordinates to match the actual size on page load and window resize events. 
 
-# Usage
+## Getting Started
 
-To use the plugin simply add it the script on your page. Let the magic work !!
+### Installation
+
+Just simply embed the script in your HTML page:
 
 ```html
 <script type='text/javascript' src='image.map.resizer.min.js'></script>
-```
 
-You have to manually trigger the resize event once at the initial stage.
-
-```js
-window.dispatchEvent(new Event('resize'))
 ```
 
 # Preview 
