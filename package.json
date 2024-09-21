@@ -1,0 +1,19 @@
+{
+  "name": "image-map-resizer",
+  "version": "1.0.0",
+  "description": "Written in vanilla JS, this utility allows the recalculating of the area coordinates of the image map to match the actual size on load and window.resize.",
+  "main": "image.map.resizer.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "uglifyjs image.map.resizer.js -o image.map.resizer.min.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "uglify-js": "^3.19.3"
+  }
+}
