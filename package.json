@@ -8,12 +8,14 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "uglifyjs image.map.resizer.js -o image.map.resizer.min.js"
+    "build": "uglifyjs image.map.resizer.js -o image.map.resizer.min.js",
+    "start": "live-server"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "live-server": "^1.2.2",
     "uglify-js": "^3.19.3"
   }
 }
